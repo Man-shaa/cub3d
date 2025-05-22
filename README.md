@@ -38,6 +38,4 @@ Run with: `./cub3D map.cub`
 ## ⭐ Bonus (Only if mandatory is perfect)
 Minimap
 
-Multiple levels
-
 Mouse controls
