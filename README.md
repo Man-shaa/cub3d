@@ -31,10 +31,13 @@
   - Contain only: `0`, `1`, `N`, `S`, `E`, `W`
 
 ## 🧪 Compilation & Usage
-Compile with: make
-Run with: ./cub3D map.cub
+Compile with: `make`
+
+Run with: `./cub3D map.cub`
 
 ## ⭐ Bonus (Only if mandatory is perfect)
 Minimap
+
 Multiple levels
+
 Mouse controls
